@@ -8,7 +8,7 @@ Fiona==1.5.1
 GDAL==1.11.2
 geopy==0.94.2
 graphviz==0.2
-numpy==1.9.2
+numpy==1.22.0
 pbr==1.8.1
 psycopg2==2.4.5
 pygeocoder==1.1.4
